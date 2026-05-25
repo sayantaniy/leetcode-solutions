@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/sayantaniy/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sayantaniy/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0202-happy-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/sayantaniy/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | [0202-happy-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sayantaniy/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,6 +51,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sayantaniy/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -68,4 +72,5 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
