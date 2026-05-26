@@ -3,16 +3,13 @@
  * @return {number}
  */
 var missingNumber = function(nums) {
-    xor1 = 0
-    xor2 = 0
-    let i
+    let sum=0, s2=0
     let n = nums.length
-
+    let i
+    sum = n*(n+1)/2
     for (i=0;i<n;i++){
-        xor2 = xor2 ^ nums[i]
-        xor1 = xor1 ^ (i+1)
+        s2+=nums[i]
     }
-    
-    return xor1 ^ xor2
+    return sum-s2
     
 };
