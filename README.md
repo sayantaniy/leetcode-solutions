@@ -12,6 +12,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sayantaniy/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/sayantaniy/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
