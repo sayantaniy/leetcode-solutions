@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sayantaniy/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sayantaniy/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/sayantaniy/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/sayantaniy/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sayantaniy/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -56,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sayantaniy/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sayantaniy/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
