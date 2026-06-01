@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/sayantaniy/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sayantaniy/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sayantaniy/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sayantaniy/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -54,11 +56,13 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sayantaniy/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sayantaniy/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sayantaniy/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -74,6 +78,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sayantaniy/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
