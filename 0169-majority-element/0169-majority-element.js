@@ -3,18 +3,14 @@
  * @return {number}
  */
 var majorityElement = function(nums) {
-    let n = nums.length
-    
-    for(let i=0;i<n;i++){
-        let count=0
-        for(let j=0;j<n;j++){
-            if(nums[j]===nums[i]){
-                count++
-            }
+    let mp = new Map()
+    //O(nlogn)
+        for(let i=0;i<nums.length;i++){
+            mp.set(nums[i], (mp.get(nums[i]) || 0) + 1)
         }
-        if (count>n/2){
-                return nums[i]
-            }    
-    }
-        
+        //O(n) max
+        for (let [key,val] of mp)
+        if (val>nums.length/2){
+            return key
+        }
 };
