@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sayantaniy/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sayantaniy/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/sayantaniy/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sayantaniy/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0169-majority-element) |
@@ -56,6 +57,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sayantaniy/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sayantaniy/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -95,4 +97,8 @@
 | ------- |
 | [0136-single-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sayantaniy/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
