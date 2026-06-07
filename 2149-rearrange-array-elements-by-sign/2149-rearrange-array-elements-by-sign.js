@@ -3,20 +3,21 @@
  * @return {number[]}
  */
 var rearrangeArray = function(nums) {
-    let pos = []
-    let neg = []
+    //two pointer approach
+    //T.C=O(n)
+    //S.C=O(n)
+    let negIndex=1
+    let posIndex=0
+    let ans = []
     for(let i=0;i<nums.length;i++){
-        if (nums[i]>0){
-            pos.push(nums[i])
+        if(nums[i]>0){
+            ans[posIndex]=nums[i]
+            posIndex=posIndex+2
         }
-        else
-        neg.push(nums[i])
+        if(nums[i]<0){
+            ans[negIndex]=nums[i]
+            negIndex=negIndex+2
+        }
     }
-
-    for(i=0;i<nums.length/2;i++){
-        nums[2*i]= pos[i]
-        nums[2*i + 1]= neg[i]
-    }
-    return nums
-   
+    return ans
 };
