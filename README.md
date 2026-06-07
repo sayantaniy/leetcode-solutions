@@ -18,6 +18,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sayantaniy/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sayantaniy/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0283-move-zeroes](https://github.com/sayantaniy/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sayantaniy/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sayantaniy/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sayantaniy/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
