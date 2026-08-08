@@ -10,36 +10,14 @@
  * @return {ListNode}
  */
 var deleteDuplicates = function(head) {
-    //convert into arr //brute force
-    let arr = []
     let temp = head
-
-    while(temp!==null){
-        arr.push(temp.val)
-        temp = temp.next
-    }
-
-    let result = []
-
-    for (let i=0;i<arr.length;i++){
-        let dup = false
-        for(let j=0;j<result.length;j++){
-            if (arr[i]===result[j]){
-                dup = true
-                break
-            }
-            
+    while(temp!==null && temp.next!==null){
+        if (temp.val===temp.next.val){
+            temp.next=temp.next.next
+        }else{
+            temp=temp.next
         }
-        if (dup===false){
-            result.push(arr[i])
-        }
-
     }
-    let dummy = new ListNode(0)
-    let curr = dummy
-    for (let i=0;i<result.length;i++){
-        curr.next = new ListNode(result[i])
-        curr = curr.next
-    }
-    return dummy.next
+    return head
+    
 };
