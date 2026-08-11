@@ -115,6 +115,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/sayantaniy/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/sayantaniy/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/sayantaniy/leetcode-solutions/tree/master/0704-binary-search) |
@@ -200,4 +201,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sayantaniy/leetcode-solutions/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sayantaniy/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
