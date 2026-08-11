@@ -42,6 +42,7 @@
 | [0007-reverse-integer](https://github.com/sayantaniy/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sayantaniy/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sayantaniy/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
@@ -111,6 +112,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sayantaniy/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -192,4 +194,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sayantaniy/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
