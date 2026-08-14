@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sayantaniy/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sayantaniy/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -34,6 +35,7 @@
 | [0169-majority-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sayantaniy/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sayantaniy/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sayantaniy/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sayantaniy/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
