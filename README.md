@@ -33,6 +33,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sayantaniy/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/sayantaniy/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sayantaniy/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -56,6 +57,7 @@
 | [0020-valid-parentheses](https://github.com/sayantaniy/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sayantaniy/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/sayantaniy/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
