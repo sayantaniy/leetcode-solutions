@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/sayantaniy/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sayantaniy/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sayantaniy/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sayantaniy/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sayantaniy/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -80,6 +81,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sayantaniy/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/sayantaniy/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sayantaniy/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sayantaniy/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sayantaniy/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/sayantaniy/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sayantaniy/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Simulation
 |  |
@@ -169,6 +172,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sayantaniy/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sayantaniy/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Bracket Sequences
 |  |
@@ -201,6 +205,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sayantaniy/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## String Matching
 |  |
