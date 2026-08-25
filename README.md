@@ -66,6 +66,7 @@
 | [0202-happy-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sayantaniy/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
+| [0365-water-and-jug-problem](https://github.com/sayantaniy/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 ## String
 |  |
 | ------- |
@@ -278,4 +279,28 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sayantaniy/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/sayantaniy/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/sayantaniy/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/sayantaniy/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/sayantaniy/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/sayantaniy/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/sayantaniy/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
