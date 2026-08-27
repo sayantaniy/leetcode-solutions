@@ -66,6 +66,7 @@
 | [0189-rotate-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sayantaniy/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sayantaniy/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/sayantaniy/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 ## String
@@ -182,6 +183,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sayantaniy/leetcode-solutions/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sayantaniy/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Manacher
 |  |
@@ -306,4 +308,8 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/sayantaniy/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sayantaniy/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
