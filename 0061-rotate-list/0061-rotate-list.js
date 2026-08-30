@@ -10,32 +10,25 @@
  * @param {number} k
  * @return {ListNode}
  */
-var rotateRight = function (head, k) {
-    if (head === null || head.next === null) return head //less than one node rotation
-    let dummy = new ListNode(0)
-    let temp = head
-    let length = 0
-    while(temp!==null){
+var rotateRight = function(head, k) {
+    let length = 1
+    let tail = head
+    if(head===null ||head.next===null) return head
+    while(tail.next!==null){
         length++
-        temp = temp.next
+        tail=tail.next
     }
-    k = k%length
+    k=k%length 
+    tail.next=head //made circular linked list
+    stepsNewTail = length-k-1 // 0 indexing
+    newTail = head
 
-    dummy.next = head
-
-    for (let i = 0; i < k; i++) {
-        let prev = dummy
-
-        while (prev.next.next !== null) {
-            prev = prev.next
-
-        }
-        let temp = prev.next
-        prev.next = null
-        temp.next = dummy.next
-        dummy.next = temp
+    for(let i=0;i<stepsNewTail;i++){
+        newTail=newTail.next
     }
+    let newHead = newTail.next 
+    newTail.next=null
 
-    return dummy.next
-
+    return newHead
+    
 };
