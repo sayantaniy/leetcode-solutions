@@ -10,31 +10,35 @@
  * @return {number[]}
  */
 var nodesBetweenCriticalPoints = function (head) {
-    let critArr = [] //array saving the node number of the CP
+    //TC : O(n) SC: O(1)
+
+    if (!head.next.next) return [-1, -1]
+
     let prev = head
     let curr = head.next //current starts from position 2, can never be head
 
     let position = 2
+    let firstCP = -1
+    let prevCP = -1
+    let minD = Infinity
+    let maxD = -1
+
     while (curr && curr.next) {
-        if (curr.val > curr.next.val && curr.val > prev.val) {
-            critArr.push(position)
-        }
-        if (curr.val < curr.next.val && curr.val < prev.val) {
-            critArr.push(position)
+
+        if ((curr.val > curr.next.val && curr.val > prev.val) || (curr.val < curr.next.val && curr.val < prev.val)) {
+
+            if (firstCP === -1) {
+                firstCP = position
+            } else {
+                maxD = Math.max(maxD, position - firstCP)
+                minD = Math.min(minD, position - prevCP)
+            }
+            prevCP = position
         }
         prev = curr
         curr = curr.next
         position += 1
     }
-    // critArr.sort((a, b) => a - b) [from left to right] position is already sorted, so no need of them 
-    if (critArr.length < 2) return [-1, -1]
-    let maxD = critArr[critArr.length - 1] - critArr[0]
-    let minD = Infinity
-    for (let i = 1; i < critArr.length; i++) {
-        let difference = critArr[i] - critArr[i - 1]
-        if (difference < minD) {
-            minD = difference
-        }
-    }
+    if(firstCP===prevCP) return [-1,-1]
     return [minD, maxD]
 };
