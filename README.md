@@ -34,6 +34,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sayantaniy/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sayantaniy/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sayantaniy/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0258-add-digits](https://github.com/sayantaniy/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/sayantaniy/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sayantaniy/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
