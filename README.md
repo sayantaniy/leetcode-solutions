@@ -80,6 +80,7 @@
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/sayantaniy/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [2614-prime-in-diagonal](https://github.com/sayantaniy/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [3870-count-commas-in-range](https://github.com/sayantaniy/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sayantaniy/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
