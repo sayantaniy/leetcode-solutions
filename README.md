@@ -30,6 +30,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sayantaniy/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/sayantaniy/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sayantaniy/leetcode-solutions/tree/master/0704-binary-search) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sayantaniy/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -205,6 +206,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/sayantaniy/leetcode-solutions/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/sayantaniy/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sayantaniy/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Manacher
 |  |
@@ -227,6 +229,7 @@
 | [0020-valid-parentheses](https://github.com/sayantaniy/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sayantaniy/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/sayantaniy/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/sayantaniy/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
