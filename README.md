@@ -104,6 +104,7 @@
 | [0389-find-the-difference](https://github.com/sayantaniy/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sayantaniy/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/sayantaniy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sayantaniy/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Trie
 |  |
@@ -235,6 +236,7 @@
 | [0682-baseball-game](https://github.com/sayantaniy/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sayantaniy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sayantaniy/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
