@@ -35,6 +35,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sayantaniy/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sayantaniy/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sayantaniy/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sayantaniy/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2614-prime-in-diagonal](https://github.com/sayantaniy/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
@@ -211,6 +212,7 @@
 | [0258-add-digits](https://github.com/sayantaniy/leetcode-solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/sayantaniy/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sayantaniy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sayantaniy/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sayantaniy/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Manacher
 |  |
@@ -237,6 +239,7 @@
 | [0844-backspace-string-compare](https://github.com/sayantaniy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sayantaniy/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/sayantaniy/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
@@ -317,6 +320,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sayantaniy/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Greedy
 |  |
 | ------- |
