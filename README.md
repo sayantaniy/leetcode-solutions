@@ -37,6 +37,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sayantaniy/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sayantaniy/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sayantaniy/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sayantaniy/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2614-prime-in-diagonal](https://github.com/sayantaniy/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sayantaniy/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -213,6 +214,7 @@
 | [0682-baseball-game](https://github.com/sayantaniy/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sayantaniy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sayantaniy/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sayantaniy/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sayantaniy/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Manacher
 |  |
@@ -321,6 +323,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sayantaniy/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sayantaniy/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
