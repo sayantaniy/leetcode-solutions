@@ -30,6 +30,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sayantaniy/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0622-design-circular-queue](https://github.com/sayantaniy/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/sayantaniy/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sayantaniy/leetcode-solutions/tree/master/0704-binary-search) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -264,6 +265,7 @@
 | [0203-remove-linked-list-elements](https://github.com/sayantaniy/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/sayantaniy/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -281,6 +283,7 @@
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/sayantaniy/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Monotonic Stack
 |  |
@@ -323,6 +326,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/sayantaniy/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sayantaniy/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sayantaniy/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
