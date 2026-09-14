@@ -35,8 +35,9 @@ MyCircularQueue.prototype.deQueue = function () {
     if (this.currSize === 1) { //destroy the queue
         this.start = -1
         this.end = -1
-    }
+    }else{
     this.start = (this.start + 1) % this.size
+    }
     this.currSize--
     return true
 };
