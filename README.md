@@ -114,6 +114,7 @@
 | [0844-backspace-string-compare](https://github.com/sayantaniy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sayantaniy/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/sayantaniy/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Trie
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [0383-ransom-note](https://github.com/sayantaniy/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sayantaniy/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/sayantaniy/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Quickselect
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sayantaniy/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/sayantaniy/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/sayantaniy/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Bracket Sequences
 |  |
 | ------- |
