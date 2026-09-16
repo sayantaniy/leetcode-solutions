@@ -18,6 +18,7 @@
 | [0066-plus-one](https://github.com/sayantaniy/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sayantaniy/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sayantaniy/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sayantaniy/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -215,6 +216,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sayantaniy/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sayantaniy/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sayantaniy/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sayantaniy/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
 | ------- |
