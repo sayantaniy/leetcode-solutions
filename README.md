@@ -33,6 +33,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sayantaniy/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sayantaniy/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/sayantaniy/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0622-design-circular-queue](https://github.com/sayantaniy/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/sayantaniy/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/sayantaniy/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -73,6 +74,7 @@
 | [0389-find-the-difference](https://github.com/sayantaniy/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sayantaniy/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/sayantaniy/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/sayantaniy/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sayantaniy/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Math
 |  |
@@ -172,6 +174,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sayantaniy/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sayantaniy/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/sayantaniy/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sayantaniy/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Heap (Priority Queue)
 |  |
@@ -189,6 +192,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sayantaniy/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sayantaniy/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/sayantaniy/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sayantaniy/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/sayantaniy/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Quickselect
@@ -240,6 +244,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sayantaniy/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sayantaniy/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sayantaniy/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/sayantaniy/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sayantaniy/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
