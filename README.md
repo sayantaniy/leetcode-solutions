@@ -41,6 +41,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/sayantaniy/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sayantaniy/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/sayantaniy/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sayantaniy/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
