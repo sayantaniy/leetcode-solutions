@@ -40,6 +40,7 @@
 | [0704-binary-search](https://github.com/sayantaniy/leetcode-solutions/tree/master/0704-binary-search) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sayantaniy/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sayantaniy/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sayantaniy/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sayantaniy/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sayantaniy/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -94,6 +95,7 @@
 | [0258-add-digits](https://github.com/sayantaniy/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/sayantaniy/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sayantaniy/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2614-prime-in-diagonal](https://github.com/sayantaniy/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [3870-count-commas-in-range](https://github.com/sayantaniy/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sayantaniy/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
