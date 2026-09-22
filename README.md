@@ -46,6 +46,7 @@
 | [1470-shuffle-the-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sayantaniy/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1732-find-the-highest-altitude](https://github.com/sayantaniy/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sayantaniy/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sayantaniy/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -256,6 +257,7 @@
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sayantaniy/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/sayantaniy/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Stack
 |  |
 | ------- |
