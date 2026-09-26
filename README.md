@@ -79,6 +79,7 @@
 | [0409-longest-palindrome](https://github.com/sayantaniy/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/sayantaniy/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/sayantaniy/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0970-powerful-integers](https://github.com/sayantaniy/leetcode-solutions/tree/master/0970-powerful-integers) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sayantaniy/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Math
 |  |
@@ -96,6 +97,7 @@
 | [0258-add-digits](https://github.com/sayantaniy/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sayantaniy/leetcode-solutions/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/sayantaniy/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+| [0970-powerful-integers](https://github.com/sayantaniy/leetcode-solutions/tree/master/0970-powerful-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sayantaniy/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2614-prime-in-diagonal](https://github.com/sayantaniy/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [3870-count-commas-in-range](https://github.com/sayantaniy/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -412,4 +414,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sayantaniy/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Enumeration
+|  |
+| ------- |
+| [0970-powerful-integers](https://github.com/sayantaniy/leetcode-solutions/tree/master/0970-powerful-integers) |
 <!---LeetCode Topics End-->
