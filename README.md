@@ -80,6 +80,7 @@
 | [0409-longest-palindrome](https://github.com/sayantaniy/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/sayantaniy/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/sayantaniy/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0771-jewels-and-stones](https://github.com/sayantaniy/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0970-powerful-integers](https://github.com/sayantaniy/leetcode-solutions/tree/master/0970-powerful-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/sayantaniy/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sayantaniy/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -124,6 +125,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sayantaniy/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sayantaniy/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0771-jewels-and-stones](https://github.com/sayantaniy/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/sayantaniy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/sayantaniy/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
