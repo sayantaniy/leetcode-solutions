@@ -128,6 +128,7 @@
 | [0771-jewels-and-stones](https://github.com/sayantaniy/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/sayantaniy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sayantaniy/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1108-defanging-an-ip-address](https://github.com/sayantaniy/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/sayantaniy/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/sayantaniy/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/sayantaniy/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
